@@ -1,5 +1,9 @@
 # AI Hotel — Validation Roadmap
 
+## Current position — 5 October 2026
+
+Public desk research is complete for an initial Address discussion proposal. Field discovery, approved hotel data, integrations and live pilot outcomes remain unverified. See [the proposal](proposals/address/PROPOSAL.md).
+
 ## Stage 0 — Discovery
 
 - map one real hotel;
@@ -10,7 +14,7 @@
 
 ## Stage 1 — Workflow selection
 
-Choose a small set of high-value workflows.
+Choose one operational guest-request category, supported by approved information and a manager brief. Broader examples below are candidates for later selection.
 
 Hotel-side examples:
 - Director Daily Brief;
@@ -38,7 +42,7 @@ The demo should prove:
 
 ## Stage 3 — Concierge pilot
 
-Run a bounded real pilot.
+Run staff evaluation alongside the existing process first. Start a bounded live pilot only after agreeing the scope, permissions, baseline and human coverage.
 
 Progression:
 1. read-only;

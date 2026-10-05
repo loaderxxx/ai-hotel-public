@@ -4,6 +4,14 @@
 
 It connects hotel operations and the guest experience through one governed orchestration backbone.
 
+## Proposal for Address
+
+[Read the proposal for Address Beach Resort and Address Hotels + Resorts](proposals/address/PROPOSAL.md).
+
+The proposed first evaluation combines approved guest information, one service-request workflow and a duty-manager exception brief. It starts at one property and measures value against the current process.
+
+This is an independent discussion proposal, not an announced partnership or an active hotel deployment.
+
 ## Two product surfaces
 
 ### AI Hotel for Management
@@ -79,6 +87,8 @@ The goal is to prove measurable value before broad platform build.
 
 ## Status
 
-Concept / validation stage.
+Concept / validation stage. Public desk research has informed the product and the Address proposal; hotel interviews, internal system validation and live pilot results remain outstanding.
+
+Descriptions of the platform are intended behavior and proposed capabilities, not a list of deployed integrations.
 
 This repository contains public product documentation. Internal operating methods, private data, credentials and proprietary private-core material are intentionally excluded.

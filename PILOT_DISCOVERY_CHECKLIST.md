@@ -97,3 +97,21 @@ Do not automate without explicit policy:
 - emergency/safety decisions;
 - pricing changes;
 - sensitive public guest replies.
+
+## Policy and commercial ownership
+
+- Identify who approves each service rule and when it takes effect.
+- Separate hotel, residence, outlet and third-party service responsibilities.
+- Identify the operator, contracting party and required property/group approvals.
+- Confirm that the selected channel can verify the guest's authority.
+- Determine language needs from actual guest and staff demand.
+
+## Existing capability comparison
+
+- Demonstrate the current workflow using the same evaluation cases.
+- Check whether a licensed feature or configuration change addresses the need.
+- Establish integration permissions and costs before committing to a build.
+- Agree the baseline, sample and review process.
+- Include staff supervision and correction time in the economic case.
+
+For the first property-specific discussion, see [the Address proposal](proposals/address/PROPOSAL.md).

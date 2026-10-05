@@ -49,3 +49,9 @@ Meaning must remain consistent across languages.
 ## Repository language
 
 Public and technical repository documentation is maintained in English to support international development and collaboration.
+
+## Property validation
+
+English and Russian are product design priorities, not a claim about any hotel's guest-language mix. Confirm the required languages, including Arabic where relevant, with each property before a live pilot.
+
+Use the same approved policies across languages, and evaluate whether quantities, timing, eligibility and promises retain the same meaning. If reliable language support or policy content is unavailable, route to staff.

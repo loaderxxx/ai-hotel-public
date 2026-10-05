@@ -11,9 +11,10 @@ Validate whether guests and hotel staff obtain measurable value from one AI conv
 - one hotel;
 - a limited number of consenting stays;
 - English and Russian;
-- five to eight request categories.
+- approved hotel information plus one operational request category initially;
+- expansion only after review of accuracy, handover and staff workload.
 
-Recommended starting categories:
+Candidate categories for selection, not simultaneous launch:
 1. hotel information;
 2. housekeeping timing;
 3. amenities;
@@ -75,6 +76,16 @@ System:
 - pending-task leakage;
 - duplicate actions;
 - verification coverage.
+
+## Evaluation before live use
+
+Start with synthetic or approved redacted cases, then staff evaluation alongside the current process. A live pilot requires agreement on policy ownership, participation, data handling, operational coverage and a stop procedure.
+
+Test conflicting or expired rules, missing availability, duplicate messages and failed staff handovers. An accepted request, confirmed booking and completed service are different states.
+
+Measure staff review and correction effort as well as handling time. Compare the proposed experience with the current tools and workflow.
+
+[Address-specific proposal](proposals/address/PROPOSAL.md)
 
 ## Decision gate
 

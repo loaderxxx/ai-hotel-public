@@ -4,9 +4,9 @@
 
 AI Hotel helps a hotel director run operations remotely by turning scattered hotel information into a single AI-managed command surface.
 
-## Problem
+## Problem to validate
 
-Hotel information is usually scattered across:
+At a prospective property, determine whether operational information is fragmented across:
 - PMS;
 - chats and messengers;
 - guest messages;
@@ -18,7 +18,7 @@ Hotel information is usually scattered across:
 - staff calls;
 - shift handovers.
 
-The director becomes the human integration layer.
+Where these systems do not provide a clear shared view, the director may spend time reconciling status and following up. Discovery should establish whether this problem exists and whether current software can resolve it.
 
 ## What changes
 
@@ -44,7 +44,7 @@ AI Hotel creates one management surface:
 ## Pilot proposal
 
 1. Map the current director workflow.
-2. Identify 2–3 high-value workflows.
+2. Select one service-request workflow and a related manager brief.
 3. Use safe exports or read-only integrations first.
 4. Run a bounded pilot.
 5. Measure operational impact.
@@ -52,6 +52,10 @@ AI Hotel creates one management surface:
 ## Safe automation promise
 
 AI starts by observing, summarizing, recommending and preparing actions. Execution begins only with low-risk approved workflows. Sensitive actions remain human-approved.
+
+## Address-specific discussion
+
+[The Address proposal](proposals/address/PROPOSAL.md) connects approved guest guidance, service-request follow-through and a duty-manager brief. The objective is to support attentive service with clear responsibility and verified status.
 
 ## Meeting close
 

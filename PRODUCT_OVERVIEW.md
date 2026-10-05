@@ -72,6 +72,14 @@ The same operational backbone should support both sides:
 - audit;
 - memory.
 
+## Research-informed starting point
+
+Begin with approved property information, one supervised service-request category and a manager exception brief. Compare these workflows with the hotel's existing tools before commissioning new integration work.
+
+Current hospitality products already overlap with messaging, task management and AI assistance. The evaluation must demonstrate an advantage in actual service outcomes, operating effort or fit; these features alone do not establish uniqueness.
+
+For a concrete discussion proposal, see [Address Beach Resort](proposals/address/PROPOSAL.md). The property is a proposed evaluation setting, not an agreed customer.
+
 ## Initial differentiation hypothesis
 
 AI Hotel should not compete as another single-purpose chatbot.

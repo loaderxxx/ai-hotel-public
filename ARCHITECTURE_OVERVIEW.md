@@ -1,5 +1,7 @@
 # AI Hotel — Public Architecture Overview
 
+Status: proposed architecture. No hotel-specific integration or production deployment is claimed.
+
 ## Architecture thesis
 
 Hotel-side AI and Personal AI Hotel are separate experience layers connected to one governed operational backbone.
@@ -99,3 +101,9 @@ The shared platform requires:
 - bounded autonomy.
 
 This document intentionally describes the public high-level architecture rather than proprietary internal implementation details.
+
+## Property-specific information and outcomes
+
+Service information needs an accountable owner, effective dates and an approved source. Conflicting or expired rules require staff clarification. Each property and independently operated service needs explicit permissions.
+
+Keep request receipt, staff acceptance, reservation confirmation and service completion distinguishable. Support duplicate prevention, delayed responses and human takeover. A guest-visible status must reflect the evidence available from the authorized workflow.
