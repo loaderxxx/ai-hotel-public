@@ -92,3 +92,11 @@ Concept / validation stage. Public desk research has informed the product and th
 Descriptions of the platform are intended behavior and proposed capabilities, not a list of deployed integrations.
 
 This repository contains public product documentation. Internal operating methods, private data, credentials and proprietary private-core material are intentionally excluded.
+
+## Contact / Контакты
+
+For project inquiries and technology collaboration: **[vladimir.uzbek.ai@gmail.com](mailto:vladimir.uzbek.ai@gmail.com)**.
+
+По вопросам проектов и сотрудничества: **[vladimir.uzbek.ai@gmail.com](mailto:vladimir.uzbek.ai@gmail.com)**.
+
+[Personal technology portfolio](https://personal-portfolio-web-production-1e48.up.railway.app/) · [All public GitHub projects](https://github.com/loaderxxx?tab=repositories&type=public).
